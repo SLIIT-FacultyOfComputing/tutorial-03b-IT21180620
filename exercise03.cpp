@@ -19,16 +19,12 @@ int main() {
     // int box1Height, box1Width, box1Length;
     struct Box Box1;
 
-    Box1.Height;
-    Box1.Width;
-    Box1.Length;
+   
   
     // 3. Create a variable called box2 of the Box structure type
     struct Box Box2;
 
-    Box2.Height;
-    Box2.Width;
-    Box2.Length;
+ 
   
     // int box2Height, box2Width, box2Length;
     int totalVolume;
